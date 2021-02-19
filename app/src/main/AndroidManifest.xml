@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:fullBackupContent="true"
         android:theme="@style/Theme.FoodOrderApp">
-        <activity android:name=".MainActivity">
+        <activity android:name=".OrdersActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
