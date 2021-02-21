@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Food Order App</string>
+    <string name="foodimage">FoodImage</string>
+    <string name="pizza">Pizza</string>
+    <string name="substract_image">substract image</string>
+    <string name="quantity">1</string>
+    <string name="phone">Phone</string>
+    <string name="price">Price</string>
+    <string name="dollarSign">$</string>
+    <string name="order_now">ORDER NOW</string>
+    <string name="food_price">15</string>
+    <string name="food_description">Who says meat lovers get to have all the fun? · Whole Wheat Veggie Pizza · Tomato-Onion Phyllo Pizza · Spinach</string>
+    <string name="addimagebutton">addImageButton</string>
+    <string name="your_name">Your Name</string>
 </resources>
