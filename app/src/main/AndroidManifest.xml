@@ -14,13 +14,17 @@
             android:name="com.google.android.actions"
             android:resource="@drawable/edittext_background" />
 
-        <activity android:name=".OrdersActivity">
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".DetailActivity">
+
+        </activity>
+        <activity android:name=".OrdersActivity"/>
 
         <meta-data
             android:name="preloaded_fonts"
